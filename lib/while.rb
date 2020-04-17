@@ -4,5 +4,4 @@ def using_while
   while levitation force is < 10
     puts "Wingardium Leviosa"#y
    Wingardium_Leviosa += 1
- end
 end
